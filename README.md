@@ -15,3 +15,7 @@ If the cards are the same rank, it is War. Each player turns up one card face do
 How the Battle is Won:
 
 The game ends when one player has won all the cards.
+
+
+Wireframe
+![wireframe](https://user-images.githubusercontent.com/97041885/147976883-90a5e09a-a47b-4398-af16-a478621044e2.jpg)
