@@ -16,6 +16,11 @@ How the Battle is Won:
 
 The game ends when one player has won all the cards.
 
+Technologies Used:
+Javascript, CSS, HTML
 
 Wireframe
 ![wireframe](https://user-images.githubusercontent.com/97041885/147976883-90a5e09a-a47b-4398-af16-a478621044e2.jpg)
+
+Screenshot
+![Screenshot 2022-01-10 103345](https://user-images.githubusercontent.com/97041885/148792940-7030d028-5841-4a16-8f3b-779de08b5588.png)
